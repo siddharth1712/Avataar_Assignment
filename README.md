@@ -18,7 +18,7 @@ After loading the checkpoints for each annotator I have created the final genera
 
 ### Observations and Results
 
-I tried out the image generation with a variety of controlnet conditions and their combinations. These transformed images are stored [Transforms](./Transforms). Each subfolder has all transformations of the depth image provided at [Metadata/Images](./Metadata/Images/). 
+I tried out the image generation with a variety of controlnet conditions and their combinations. These transformed images are stored in [Transforms](./Transforms). Each subfolder has all transformations of the depth image provided at [Metadata/Images](./Metadata/Images/). 
 
 All the generated images with the help of these controlnet condition images are in the [Results/Task1](./Results/Task1/) directory.
 
